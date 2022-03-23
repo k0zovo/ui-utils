@@ -22,3 +22,7 @@ At least, the parts that still seemed relevant. This repository is kept lite.
 ## Usage
 
 `bower install --save angular-ui-utils`
+
+## TODO
+
+* many things
